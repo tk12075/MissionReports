@@ -1,3 +1,12 @@
-h1 {
-	color: red;
+body {
+	background: url(https://github.com/tk12075/MissionReports/blob/gh-pages/Images/TKBW.png?raw=true);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+#mainheader {
+	color: black;
+	text-align: center;
+	background-color: rgba(225,225,225,0.5);
 }
