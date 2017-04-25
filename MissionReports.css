@@ -17,3 +17,28 @@ html {
 	text-align: center;
 	background-color: rgba(225,225,225,0.5);
 }
+
+.jumbotron{
+	margin: 50px;
+	background-color: rgba(300,800,300,.8);
+}
+
+#jumboDiv {
+	margin: 0px;
+	padding-top: 50px;
+	
+}
+
+th {
+	width: auto;
+	text-align: right;
+}
+
+td {
+	width: auto;
+	text-align: left;
+	padding-left: 10px;
+}
+
+
+
